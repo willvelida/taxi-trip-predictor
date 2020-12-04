@@ -1,10 +1,7 @@
 ﻿using Azure.Storage.Blobs;
 using Microsoft.ML;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
-using TaxiTripPredictor.ModelTrainer.Models;
+using TaxiTripPredictor.Core.Models;
 
 namespace TaxiTripPredictor.ModelTrainer.Helpers
 {

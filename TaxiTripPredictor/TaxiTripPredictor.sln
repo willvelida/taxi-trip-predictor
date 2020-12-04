@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiTripPredictor.ModelTrainer", "TaxiTripPredictor.ModelTrainer\TaxiTripPredictor.ModelTrainer.csproj", "{D5DF8258-8DED-44C8-9CB1-75B57513BC82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiTripPredictor.API", "TaxiTripPredictor.API\TaxiTripPredictor.API.csproj", "{DB073316-EB52-4552-AAA6-AB5D9F381740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiTripPredictor.Core", "TaxiTripPredictor.Core\TaxiTripPredictor.Core.csproj", "{573D19F9-C73E-4214-B867-153A2696A18D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D5DF8258-8DED-44C8-9CB1-75B57513BC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5DF8258-8DED-44C8-9CB1-75B57513BC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5DF8258-8DED-44C8-9CB1-75B57513BC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB073316-EB52-4552-AAA6-AB5D9F381740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB073316-EB52-4552-AAA6-AB5D9F381740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB073316-EB52-4552-AAA6-AB5D9F381740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB073316-EB52-4552-AAA6-AB5D9F381740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573D19F9-C73E-4214-B867-153A2696A18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573D19F9-C73E-4214-B867-153A2696A18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573D19F9-C73E-4214-B867-153A2696A18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573D19F9-C73E-4214-B867-153A2696A18D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

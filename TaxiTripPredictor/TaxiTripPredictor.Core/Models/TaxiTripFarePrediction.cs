@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace TaxiTripPredictor.ModelTrainer.Models
+namespace TaxiTripPredictor.Core.Models
 {
     public class TaxiTripFarePrediction
     {
